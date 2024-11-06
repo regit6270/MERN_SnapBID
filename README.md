@@ -18,8 +18,11 @@ For Frontend:
 3. Configure Environment Variables: In the backend folder, create a .env file with the following keys:
 
 PORT: The server port (e.g., 5000)
+
 MONGO_URI: MongoDB connection URI
+
 JWT_SECRET: Secret key for JWT token generation
+
 JWT_EXPIRES_TIME: Expiration time for JWT tokens
 
 4. Run the Server: Start the backend server.
